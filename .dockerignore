@@ -1,0 +1,15 @@
+
+.eslintrc.js
+.git
+.gitignore
+.prettierrc
+README.md
+
+# exclude build folder
+dist
+
+# exclude node_modules folder
+node_modules
+
+# exclude test folder
+test
